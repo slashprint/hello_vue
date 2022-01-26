@@ -2,7 +2,7 @@
   <!-- 인트로 페이지 -->
   <main v-if="page === 0">
     <img src="/start.jpg" alt="characters" />
-    <h1>/SLASH MBTI</h1>
+    <h1>/SLASH PRINT MBTI</h1>
     <h2>“It’s so incredible to finally be understood.”</h2>
     <Button text="테스트 시작" :clickEvent="startTest" />
   </main>
